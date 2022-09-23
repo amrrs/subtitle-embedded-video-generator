@@ -8,7 +8,9 @@ Powered by OpenAI Whisper &amp; Gradio
 </a>
 
 
-If you just want a Gradio App, refer this [app.py]
+If you just want a Gradio App, refer this [app.py](app.py)
 
+
+# Demo
 
 ![whisperapp](https://user-images.githubusercontent.com/5347322/191827132-423d0a51-7db3-4486-8603-2cd2d895d921.gif)
